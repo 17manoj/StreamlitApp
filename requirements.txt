@@ -1,0 +1,3 @@
+streamlit==1.25.0
+openai==0.27.8
+load-dotenv==0.1.0
